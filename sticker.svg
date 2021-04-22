@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="7in"
+   height="1in"
+   viewBox="0 0 177.8 25.399999"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="sticker.svg"
+   inkscape:export-filename="/home/beka/Projects/ftp_sticker/sticker.png"
+   inkscape:export-xdpi="299.72"
+   inkscape:export-ydpi="299.72">
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter4891">
+      <feGaussianBlur
+         stdDeviation="0.8 0.8"
+         result="blur"
+         id="feGaussianBlur4889" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5033"
+       x="-0.010419366"
+       width="1.0208387"
+       y="-0.066067733"
+       height="1.1321355">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.77690757"
+         id="feGaussianBlur5035" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="364.48304"
+     inkscape:cy="124.49598"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="731"
+     inkscape:window-x="0"
+     inkscape:window-y="18"
+     inkscape:window-maximized="0"
+     units="in" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-271.6)">
+    <g
+       id="g5063"
+       transform="matrix(0.80818182,0,0,0.84666667,3.8872416,190.27589)">
+      <rect
+         y="96.052101"
+         x="-4.8098602"
+         height="30"
+         width="220"
+         id="rect4851"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.9966917;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="matrix(1.0990738,0,0,0.60854827,-25.177608,52.314156)"
+         id="g5041">
+        <text
+           id="text4855"
+           y="104.98809"
+           x="26.458332"
+           style="font-style:normal;font-weight:normal;font-size:35.27777481px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff6100;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter5033)"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:VT323;-inkscape-font-specification:VT323;fill:#ff6100;fill-opacity:1;stroke-width:0.26458332"
+             y="104.98809"
+             x="26.458332"
+             id="tspan4853"
+             sodipodi:role="line">ftp://1.3.1.2</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:35.27777481px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="26.458332"
+           y="104.98809"
+           id="text3944"><tspan
+             sodipodi:role="line"
+             id="tspan3942"
+             x="26.458332"
+             y="104.98809"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:VT323;-inkscape-font-specification:VT323;fill:#ffcc00;fill-opacity:1;stroke-width:0.26458332">ftp://1.3.1.2</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
